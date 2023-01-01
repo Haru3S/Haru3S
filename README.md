@@ -1,1 +1,3 @@
-![Red Banner Github Repo Man](https://user-images.githubusercontent.com/91844316/203590436-4180c621-2c86-4045-971b-01dce5ded834.png)
+![ARedDevv Banner For GitHub](https://user-images.githubusercontent.com/91844316/210160759-399d6ab2-d850-4241-9a4c-687e6a682117.png)
+
+[![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/youtube-singular_vector.svg)](https://www.youtube.com/@RedDevv) [![twitch-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/twitch-singular_vector.svg)](https://www.twitch.tv/red_devv/about) [![kofi-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/donate/kofi-singular_vector.svg)](https://ko-fi.com/reddevv)
