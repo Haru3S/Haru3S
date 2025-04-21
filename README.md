@@ -1,2 +1,2 @@
 ![spenfc3s](https://github.com/Haru3S/Haru3S/blob/main/Assets/Random/wireframe%20fc3s.gif)
-[![youtube-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/compact/social/youtube-singular_vector.svg)](https://www.youtube.com/@Haru_3S) [![kofi-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/donate/kofi-singular_vector.svg)](https://ko-fi.com/haru3s)
+[![youtube-singular](https://badges.penpow.dev/badges/social/youtube-singular/compact.svg)](https://www.youtube.com/@Haru_3S) [![donate-singular](https://badges.penpow.dev/badges/donate/generic-singular/cozy.svg)](https://haru3s.carrd.co/#donate)
